@@ -27,6 +27,7 @@ function App(){
       </Stack.Navigator>
     </NavigationContainer>
   );
+  
 }
 export default App;
 
